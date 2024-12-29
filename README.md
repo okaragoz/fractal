@@ -2,6 +2,7 @@
 # Mandelbrot Set Visualization
 
 This project provides tools to visualize and explore the Mandelbrot set, allowing users to generate static images, zoom animations, and interact with the set through a Jupyter Notebook interface.
+
 ![Demo of the application](mandelbrot_zoom.gif)
 
 ## Installation
